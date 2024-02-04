@@ -1,8 +1,8 @@
-Threejs Testbench with ASCII Effect
+Three.js Testbench with ASCII Effect
 
 ## Getting Started
 
-Add a glTF model to `public/models/api` directory. There are many available on Sketchfab.
+Add a glTF model to `public/models/` directory. There are many available on Sketchfab.
 
 Update the path to your model in `components/scene.tsx`. The page auto-updates as you edit the file.
 
