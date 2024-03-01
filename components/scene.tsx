@@ -37,7 +37,7 @@ const Scene = () => {
 
     const loader = new GLTFLoader();
     let model; 
-    loader.load('models/apple2/scene.gltf', (gltf) => {
+    loader.load('models/Duck/Duck.gltf', (gltf) => {
       model = gltf.scene;
       scene.add(model); 
     });
